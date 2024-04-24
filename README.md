@@ -7,7 +7,7 @@
 
 - 📈 I have **8 years of coding experience**
 
-- 📫 How to reach me **connect@kszabi.dev**
+- 📫 How to reach me **contact@kszabi.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
