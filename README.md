@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kszabi1&label=Profile%20views&color=0e75b6&style=flat" alt="kszabi1" /> </p>
 
-- 🌱 I’m currently working at **[ArenimTel](https://arenimtel.com/)**
+- 💻 I’m currently working at **[ArenimTel](https://arenimtel.com/)**
 
 - 📈 I have **8 years of coding experience**
 
