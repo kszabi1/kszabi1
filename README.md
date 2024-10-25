@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Szabolcs</h1>
-<h3 align="center">I am a hobby software developer from Hungary.</h3>
+<h3 align="center">I am a software developer from Hungary.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kszabi1&label=Profile%20views&color=0e75b6&style=flat" alt="kszabi1" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Development in a bootcamp**
+- 🌱 I’m currently working at **[ArenimTel](https://arenimtel.com/)**
 
 - 📈 I have **8 years of coding experience**
 
