@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="right" height="230" src="https://i.imgur.com/Nw3oWbO.gif"  />
+<img align="right" height="227" src="https://i.imgur.com/Nw3oWbO.gif"  />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kszabi1&hide_rank=true&theme=dracula&locale=en" height="100" alt="stats graph"  />
