@@ -10,10 +10,10 @@
 
 <br clear="both">
 
-<img align="right" height="260" src="https://i.imgur.com/Nw3oWbO.gif"  />
+<img align="right" height="290" src="https://i.imgur.com/Nw3oWbO.gif"  />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kszabi1&hide_rank=true&theme=dracula&locale=en" height="135" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kszabi1&hide_rank=true&theme=dracula&locale=en" height="145" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=kszabi1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
 </div>
 
