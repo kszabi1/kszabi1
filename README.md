@@ -10,8 +10,6 @@
 
 <br clear="both">
 
-<img align="right" height="290" src="https://i.imgur.com/Nw3oWbO.gif"  />
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=kszabi1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
 </div>
